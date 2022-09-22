@@ -88,10 +88,9 @@ btnHold.addEventListener('click', function () {
   } else {
     switchPlayer();
   }
-
-  // Switch to next player
 });
-
-// Game reset
-
-btnNew.addEventListener('click', init);
+  
+  
+  
+  
+  
